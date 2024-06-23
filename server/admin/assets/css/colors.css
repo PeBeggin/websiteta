@@ -1,0 +1,318 @@
+/*@import "etc.scss";*/
+/*--------------------- General Color Start ----------------------*/
+body, #wrapper, #page-content {
+  background: #f1f5fa; }
+
+/*---------------------- General Color End -----------------------*/
+/*--------------------- Start blue ----------------------*/
+.theme-blue.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-blue.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #14B9D6;
+  color: #fff; }
+
+.theme-blue .spinner {
+  border: 3px solid #14B9D6;
+  border-left: none !important; }
+.theme-blue .grid-example {
+  border: 1px solid #14B9D6; }
+.theme-blue .double-bounce1, .theme-blue .double-bounce2, .theme-blue .scaleout, .theme-blue .bounces > div, .theme-blue .folding-cube .cube:before, .theme-blue .header-first-col,
+.theme-blue #sidebar-helper a:hover, .theme-blue #sidebar-helper a:hover, .theme-blue #sidebar-helper a:focus, .theme-blue #sidebar-helper a:active, .theme-blue #sidebar-helper a.current,
+.theme-blue .metismenu a.current, .theme-blue .metismenu a:hover, .theme-blue .metismenu a:focus, .theme-blue .metismenu a:active {
+  background-color: #14B9D6;
+  color: #fff; }
+.theme-blue .pagination > .active > a, .theme-blue .pagination > .active > a:focus, .theme-blue .pagination > .active > a:hover, .theme-blue .pagination > .active > span, .theme-blue .pagination > .active > span:focus, .theme-blue .pagination > .active > span:hover, .theme-blue .pagination span.active {
+  border-color: #14B9D6; }
+
+.bg-blue,
+.btn-blue {
+  background: #14B9D6; }
+
+.theme-blue #toggle-setting i {
+  color: #14B9D6; }
+
+/*---------------------- End blue -----------------------*/
+/*--------------------- Start red ----------------------*/
+.theme-red.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-red.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #f55145;
+  color: #fff; }
+
+.theme-red .spinner {
+  border: 3px solid #f55145;
+  border-left: none !important; }
+.theme-red .grid-example {
+  border: 1px solid #f55145; }
+.theme-red .double-bounce1, .theme-red .double-bounce2, .theme-red .scaleout, .theme-red .bounces > div, .theme-red .folding-cube .cube:before, .theme-red .header-first-col,
+.theme-red #sidebar-helper a:hover, .theme-red #sidebar-helper a:hover, .theme-red #sidebar-helper a:focus, .theme-red #sidebar-helper a:active, .theme-red #sidebar-helper a.current,
+.theme-red .metismenu a.current, .theme-red .metismenu a:hover, .theme-red .metismenu a:focus, .theme-red .metismenu a:active {
+  background-color: #f55145;
+  color: #fff; }
+.theme-red .pagination > .active > a, .theme-red .pagination > .active > a:focus, .theme-red .pagination > .active > a:hover, .theme-red .pagination > .active > span, .theme-red .pagination > .active > span:focus, .theme-red .pagination > .active > span:hover, .theme-red .pagination span.active {
+  border-color: #f55145; }
+
+.bg-red,
+.btn-red {
+  background: #f55145; }
+
+.theme-red #toggle-setting i {
+  color: #f55145; }
+
+/*---------------------- End red -----------------------*/
+/*--------------------- Start green ----------------------*/
+.theme-green.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-green.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #53a96b;
+  color: #fff; }
+
+.theme-green .spinner {
+  border: 3px solid #53a96b;
+  border-left: none !important; }
+.theme-green .grid-example {
+  border: 1px solid #53a96b; }
+.theme-green .double-bounce1, .theme-green .double-bounce2, .theme-green .scaleout, .theme-green .bounces > div, .theme-green .folding-cube .cube:before, .theme-green .header-first-col,
+.theme-green #sidebar-helper a:hover, .theme-green #sidebar-helper a:hover, .theme-green #sidebar-helper a:focus, .theme-green #sidebar-helper a:active, .theme-green #sidebar-helper a.current,
+.theme-green .metismenu a.current, .theme-green .metismenu a:hover, .theme-green .metismenu a:focus, .theme-green .metismenu a:active {
+  background-color: #53a96b;
+  color: #fff; }
+.theme-green .pagination > .active > a, .theme-green .pagination > .active > a:focus, .theme-green .pagination > .active > a:hover, .theme-green .pagination > .active > span, .theme-green .pagination > .active > span:focus, .theme-green .pagination > .active > span:hover, .theme-green .pagination span.active {
+  border-color: #53a96b; }
+
+.bg-green,
+.btn-green {
+  background: #53a96b; }
+
+.theme-green #toggle-setting i {
+  color: #53a96b; }
+
+/*---------------------- End green -----------------------*/
+/*--------------------- Start orange ----------------------*/
+.theme-orange.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-orange.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #ffbd15;
+  color: #fff; }
+
+.theme-orange .spinner {
+  border: 3px solid #ffbd15;
+  border-left: none !important; }
+.theme-orange .grid-example {
+  border: 1px solid #ffbd15; }
+.theme-orange .double-bounce1, .theme-orange .double-bounce2, .theme-orange .scaleout, .theme-orange .bounces > div, .theme-orange .folding-cube .cube:before, .theme-orange .header-first-col,
+.theme-orange #sidebar-helper a:hover, .theme-orange #sidebar-helper a:hover, .theme-orange #sidebar-helper a:focus, .theme-orange #sidebar-helper a:active, .theme-orange #sidebar-helper a.current,
+.theme-orange .metismenu a.current, .theme-orange .metismenu a:hover, .theme-orange .metismenu a:focus, .theme-orange .metismenu a:active {
+  background-color: #ffbd15;
+  color: #fff; }
+.theme-orange .pagination > .active > a, .theme-orange .pagination > .active > a:focus, .theme-orange .pagination > .active > a:hover, .theme-orange .pagination > .active > span, .theme-orange .pagination > .active > span:focus, .theme-orange .pagination > .active > span:hover, .theme-orange .pagination span.active {
+  border-color: #ffbd15; }
+
+.bg-orange,
+.btn-orange {
+  background: #ffbd15; }
+
+.theme-orange #toggle-setting i {
+  color: #ffbd15; }
+
+/*---------------------- End orange -----------------------*/
+/*--------------------- Start purple ----------------------*/
+.theme-purple.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-purple.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #9c27b0;
+  color: #fff; }
+
+.theme-purple .spinner {
+  border: 3px solid #9c27b0;
+  border-left: none !important; }
+.theme-purple .grid-example {
+  border: 1px solid #9c27b0; }
+.theme-purple .double-bounce1, .theme-purple .double-bounce2, .theme-purple .scaleout, .theme-purple .bounces > div, .theme-purple .folding-cube .cube:before, .theme-purple .header-first-col,
+.theme-purple #sidebar-helper a:hover, .theme-purple #sidebar-helper a:hover, .theme-purple #sidebar-helper a:focus, .theme-purple #sidebar-helper a:active, .theme-purple #sidebar-helper a.current,
+.theme-purple .metismenu a.current, .theme-purple .metismenu a:hover, .theme-purple .metismenu a:focus, .theme-purple .metismenu a:active {
+  background-color: #9c27b0;
+  color: #fff; }
+.theme-purple .pagination > .active > a, .theme-purple .pagination > .active > a:focus, .theme-purple .pagination > .active > a:hover, .theme-purple .pagination > .active > span, .theme-purple .pagination > .active > span:focus, .theme-purple .pagination > .active > span:hover, .theme-purple .pagination span.active {
+  border-color: #9c27b0; }
+
+.bg-purple,
+.btn-purple {
+  background: #9c27b0; }
+
+.theme-purple #toggle-setting i {
+  color: #9c27b0; }
+
+/*---------------------- End purple -----------------------*/
+/*--------------------- Start deeporange ----------------------*/
+.theme-deeporange.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-deeporange.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #ff8a65;
+  color: #fff; }
+
+.theme-deeporange .spinner {
+  border: 3px solid #ff8a65;
+  border-left: none !important; }
+.theme-deeporange .grid-example {
+  border: 1px solid #ff8a65; }
+.theme-deeporange .double-bounce1, .theme-deeporange .double-bounce2, .theme-deeporange .scaleout, .theme-deeporange .bounces > div, .theme-deeporange .folding-cube .cube:before, .theme-deeporange .header-first-col,
+.theme-deeporange #sidebar-helper a:hover, .theme-deeporange #sidebar-helper a:hover, .theme-deeporange #sidebar-helper a:focus, .theme-deeporange #sidebar-helper a:active, .theme-deeporange #sidebar-helper a.current,
+.theme-deeporange .metismenu a.current, .theme-deeporange .metismenu a:hover, .theme-deeporange .metismenu a:focus, .theme-deeporange .metismenu a:active {
+  background-color: #ff8a65;
+  color: #fff; }
+.theme-deeporange .pagination > .active > a, .theme-deeporange .pagination > .active > a:focus, .theme-deeporange .pagination > .active > a:hover, .theme-deeporange .pagination > .active > span, .theme-deeporange .pagination > .active > span:focus, .theme-deeporange .pagination > .active > span:hover, .theme-deeporange .pagination span.active {
+  border-color: #ff8a65; }
+
+.bg-deeporange,
+.btn-deeporange {
+  background: #ff8a65; }
+
+.theme-deeporange #toggle-setting i {
+  color: #ff8a65; }
+
+/*---------------------- End deeporange -----------------------*/
+/*--------------------- Start rose ----------------------*/
+.theme-rose.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-rose.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #e91e63;
+  color: #fff; }
+
+.theme-rose .spinner {
+  border: 3px solid #e91e63;
+  border-left: none !important; }
+.theme-rose .grid-example {
+  border: 1px solid #e91e63; }
+.theme-rose .double-bounce1, .theme-rose .double-bounce2, .theme-rose .scaleout, .theme-rose .bounces > div, .theme-rose .folding-cube .cube:before, .theme-rose .header-first-col,
+.theme-rose #sidebar-helper a:hover, .theme-rose #sidebar-helper a:hover, .theme-rose #sidebar-helper a:focus, .theme-rose #sidebar-helper a:active, .theme-rose #sidebar-helper a.current,
+.theme-rose .metismenu a.current, .theme-rose .metismenu a:hover, .theme-rose .metismenu a:focus, .theme-rose .metismenu a:active {
+  background-color: #e91e63;
+  color: #fff; }
+.theme-rose .pagination > .active > a, .theme-rose .pagination > .active > a:focus, .theme-rose .pagination > .active > a:hover, .theme-rose .pagination > .active > span, .theme-rose .pagination > .active > span:focus, .theme-rose .pagination > .active > span:hover, .theme-rose .pagination span.active {
+  border-color: #e91e63; }
+
+.bg-rose,
+.btn-rose {
+  background: #e91e63; }
+
+.theme-rose #toggle-setting i {
+  color: #e91e63; }
+
+/*---------------------- End rose -----------------------*/
+/*--------------------- Start cyan ----------------------*/
+.theme-cyan.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-cyan.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #13a2a6;
+  color: #fff; }
+
+.theme-cyan .spinner {
+  border: 3px solid #13a2a6;
+  border-left: none !important; }
+.theme-cyan .grid-example {
+  border: 1px solid #13a2a6; }
+.theme-cyan .double-bounce1, .theme-cyan .double-bounce2, .theme-cyan .scaleout, .theme-cyan .bounces > div, .theme-cyan .folding-cube .cube:before, .theme-cyan .header-first-col,
+.theme-cyan #sidebar-helper a:hover, .theme-cyan #sidebar-helper a:hover, .theme-cyan #sidebar-helper a:focus, .theme-cyan #sidebar-helper a:active, .theme-cyan #sidebar-helper a.current,
+.theme-cyan .metismenu a.current, .theme-cyan .metismenu a:hover, .theme-cyan .metismenu a:focus, .theme-cyan .metismenu a:active {
+  background-color: #13a2a6;
+  color: #fff; }
+.theme-cyan .pagination > .active > a, .theme-cyan .pagination > .active > a:focus, .theme-cyan .pagination > .active > a:hover, .theme-cyan .pagination > .active > span, .theme-cyan .pagination > .active > span:focus, .theme-cyan .pagination > .active > span:hover, .theme-cyan .pagination span.active {
+  border-color: #13a2a6; }
+
+.bg-cyan,
+.btn-cyan {
+  background: #13a2a6; }
+
+.theme-cyan #toggle-setting i {
+  color: #13a2a6; }
+
+/*---------------------- End cyan -----------------------*/
+/*--------------------- Start lime ----------------------*/
+.theme-lime.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-lime.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #90ca4b;
+  color: #fff; }
+
+.theme-lime .spinner {
+  border: 3px solid #90ca4b;
+  border-left: none !important; }
+.theme-lime .grid-example {
+  border: 1px solid #90ca4b; }
+.theme-lime .double-bounce1, .theme-lime .double-bounce2, .theme-lime .scaleout, .theme-lime .bounces > div, .theme-lime .folding-cube .cube:before, .theme-lime .header-first-col,
+.theme-lime #sidebar-helper a:hover, .theme-lime #sidebar-helper a:hover, .theme-lime #sidebar-helper a:focus, .theme-lime #sidebar-helper a:active, .theme-lime #sidebar-helper a.current,
+.theme-lime .metismenu a.current, .theme-lime .metismenu a:hover, .theme-lime .metismenu a:focus, .theme-lime .metismenu a:active {
+  background-color: #90ca4b;
+  color: #fff; }
+.theme-lime .pagination > .active > a, .theme-lime .pagination > .active > a:focus, .theme-lime .pagination > .active > a:hover, .theme-lime .pagination > .active > span, .theme-lime .pagination > .active > span:focus, .theme-lime .pagination > .active > span:hover, .theme-lime .pagination span.active {
+  border-color: #90ca4b; }
+
+.bg-lime,
+.btn-lime {
+  background: #90ca4b; }
+
+.theme-lime #toggle-setting i {
+  color: #90ca4b; }
+
+/*---------------------- End lime -----------------------*/
+/*--------------------- Start darkblue ----------------------*/
+.theme-darkblue.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-darkblue.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #071774;
+  color: #fff; }
+
+.theme-darkblue .spinner {
+  border: 3px solid #071774;
+  border-left: none !important; }
+.theme-darkblue .grid-example {
+  border: 1px solid #071774; }
+.theme-darkblue .double-bounce1, .theme-darkblue .double-bounce2, .theme-darkblue .scaleout, .theme-darkblue .bounces > div, .theme-darkblue .folding-cube .cube:before, .theme-darkblue .header-first-col,
+.theme-darkblue #sidebar-helper a:hover, .theme-darkblue #sidebar-helper a:hover, .theme-darkblue #sidebar-helper a:focus, .theme-darkblue #sidebar-helper a:active, .theme-darkblue #sidebar-helper a.current,
+.theme-darkblue .metismenu a.current, .theme-darkblue .metismenu a:hover, .theme-darkblue .metismenu a:focus, .theme-darkblue .metismenu a:active {
+  background-color: #071774;
+  color: #fff; }
+.theme-darkblue .pagination > .active > a, .theme-darkblue .pagination > .active > a:focus, .theme-darkblue .pagination > .active > a:hover, .theme-darkblue .pagination > .active > span, .theme-darkblue .pagination > .active > span:focus, .theme-darkblue .pagination > .active > span:hover, .theme-darkblue .pagination span.active {
+  border-color: #071774; }
+
+.bg-darkblue,
+.btn-darkblue {
+  background: #071774; }
+
+.theme-darkblue #toggle-setting i {
+  color: #071774; }
+
+/*---------------------- End darkblue -----------------------*/
+/*--------------------- Start darkorange ----------------------*/
+.theme-darkorange.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-darkorange.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #ee7825;
+  color: #fff; }
+
+.theme-darkorange .spinner {
+  border: 3px solid #ee7825;
+  border-left: none !important; }
+.theme-darkorange .grid-example {
+  border: 1px solid #ee7825; }
+.theme-darkorange .double-bounce1, .theme-darkorange .double-bounce2, .theme-darkorange .scaleout, .theme-darkorange .bounces > div, .theme-darkorange .folding-cube .cube:before, .theme-darkorange .header-first-col,
+.theme-darkorange #sidebar-helper a:hover, .theme-darkorange #sidebar-helper a:hover, .theme-darkorange #sidebar-helper a:focus, .theme-darkorange #sidebar-helper a:active, .theme-darkorange #sidebar-helper a.current,
+.theme-darkorange .metismenu a.current, .theme-darkorange .metismenu a:hover, .theme-darkorange .metismenu a:focus, .theme-darkorange .metismenu a:active {
+  background-color: #ee7825;
+  color: #fff; }
+.theme-darkorange .pagination > .active > a, .theme-darkorange .pagination > .active > a:focus, .theme-darkorange .pagination > .active > a:hover, .theme-darkorange .pagination > .active > span, .theme-darkorange .pagination > .active > span:focus, .theme-darkorange .pagination > .active > span:hover, .theme-darkorange .pagination span.active {
+  border-color: #ee7825; }
+
+.bg-darkorange,
+.btn-darkorange {
+  background: #ee7825; }
+
+.theme-darkorange #toggle-setting i {
+  color: #ee7825; }
+
+/*---------------------- End darkorange -----------------------*/
+/*--------------------- Start darkpurple ----------------------*/
+.theme-darkpurple.sidebar-collapse .metismenu li.conditional-bg > a, body.theme-darkpurple.dark #sidebar .dropdown-menu > li > a:hover {
+  background: #4527a0;
+  color: #fff; }
+
+.theme-darkpurple .spinner {
+  border: 3px solid #4527a0;
+  border-left: none !important; }
+.theme-darkpurple .grid-example {
+  border: 1px solid #4527a0; }
+.theme-darkpurple .double-bounce1, .theme-darkpurple .double-bounce2, .theme-darkpurple .scaleout, .theme-darkpurple .bounces > div, .theme-darkpurple .folding-cube .cube:before, .theme-darkpurple .header-first-col,
+.theme-darkpurple #sidebar-helper a:hover, .theme-darkpurple #sidebar-helper a:hover, .theme-darkpurple #sidebar-helper a:focus, .theme-darkpurple #sidebar-helper a:active, .theme-darkpurple #sidebar-helper a.current,
+.theme-darkpurple .metismenu a.current, .theme-darkpurple .metismenu a:hover, .theme-darkpurple .metismenu a:focus, .theme-darkpurple .metismenu a:active {
+  background-color: #4527a0;
+  color: #fff; }
+.theme-darkpurple .pagination > .active > a, .theme-darkpurple .pagination > .active > a:focus, .theme-darkpurple .pagination > .active > a:hover, .theme-darkpurple .pagination > .active > span, .theme-darkpurple .pagination > .active > span:focus, .theme-darkpurple .pagination > .active > span:hover, .theme-darkpurple .pagination span.active {
+  border-color: #4527a0; }
+
+.bg-darkpurple,
+.btn-darkpurple {
+  background: #4527a0; }
+
+.theme-darkpurple #toggle-setting i {
+  color: #4527a0; }
+
+/*---------------------- End darkpurple -----------------------*/

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="../../../../../../_autoindex/assets/css/autoindex.css"><script src="../../../../../../_autoindex/assets/js/tablesort.js"></script><script src="../../../../../../_autoindex/assets/js/tablesort.number.js"></script><title>Index of /demo/moderate/dark/assets/plugins/malihu-custom-scrollbar-plugin/</title></head>
+<body><div class="content"><h1>Index of /demo/moderate/dark/assets/plugins/malihu-custom-scrollbar-plugin/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="index-4.htm?NA" onclick="return false">Name</a></th><th class="colname" data-sort-method="number" aria-sort="descending"><a href="index-2.htm?MA" onclick="return false">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="index-3.htm?SA" onclick="return false">Size</a></th></tr></thead>
+<tr data-sort-method="none"><td><a href="../index.htm"><img class="icon" src="../../../../../../_autoindex/assets/icons/corner-left-up.svg" alt="Up">Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="jquery.mcustomscrollbar.concat.min.js"><a href="jquery.mCustomScrollbar.concat.min.js"><img class="icon" src="../../../../../../_autoindex/assets/icons/file-text.svg" alt="[TXT]">jquery.mCustomScrollbar.concat.min.js</a></td><td data-sort="1620790096">2021-05-12 03:28</td><td data-sort="95424">     94k</td></tr>
+<tr><td data-sort="package.json"><a href="package.json"><img class="icon" src="../../../../../../_autoindex/assets/icons/file.svg" alt="File">package.json</a></td><td data-sort="1608388812">2020-12-19 14:40</td><td data-sort="1993">      2k</td></tr>
+<tr><td data-sort="jquery.mcustomscrollbar.js"><a href="jquery.mCustomScrollbar.js"><img class="icon" src="../../../../../../_autoindex/assets/icons/file-text.svg" alt="[TXT]">jquery.mCustomScrollbar.js</a></td><td data-sort="1468205156">2016-07-11 02:45</td><td data-sort="95406">     94k</td></tr>
+<tr><td data-sort="readme.md"><a href="readme.md"><img class="icon" src="../../../../../../_autoindex/assets/icons/file.svg" alt="File">readme.md</a></td><td data-sort="1468205156">2016-07-11 02:45</td><td data-sort="2197">      3k</td></tr>
+<tr><td data-sort="jquery.mcustomscrollbar.css"><a href="jquery.mCustomScrollbar.css"><img class="icon" src="../../../../../../_autoindex/assets/icons/file-text.svg" alt="[TXT]">jquery.mCustomScrollbar.css</a></td><td data-sort="1444178498">2015-10-07 00:41</td><td data-sort="54850">     54k</td></tr>
+<tr><td data-sort="mcsb_buttons.png"><a href="mCSB_buttons.png"><img class="icon" src="../../../../../../_autoindex/assets/icons/image.svg" alt="[IMG]">mCSB_buttons.png</a></td><td data-sort="1397198572">2014-04-11 06:42</td><td data-sort="2998">      3k</td></tr>
+</table></div>
+<address>Proudly Served by LiteSpeed Web Server at www.rayanik.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script></body></html>

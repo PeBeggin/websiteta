@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="../../../../../_autoindex/assets/css/autoindex.css"><script src="../../../../../_autoindex/assets/js/tablesort.js"></script><script src="../../../../../_autoindex/assets/js/tablesort.number.js"></script><title>Index of /demo/moderate/dark/assets/images/</title></head>
+<body><div class="content"><h1>Index of /demo/moderate/dark/assets/images/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="index-4.htm?NA" onclick="return false">Name</a></th><th class="colname" data-sort-method="number" aria-sort="ascending"><a href="index-5.htm?MD" onclick="return false">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="index-3.htm?SA" onclick="return false">Size</a></th></tr></thead>
+<tr data-sort-method="none"><td><a href="../index.htm"><img class="icon" src="../../../../../_autoindex/assets/icons/corner-left-up.svg" alt="Up">Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="*user"><a href="user/index.htm"><img class="icon" src="../../../../../_autoindex/assets/icons/folder-fill.svg" alt="Directory">user</a></td><td data-sort="40383450">2021-03-31 09:37</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*bg"><a href="bg/index.htm"><img class="icon" src="../../../../../_autoindex/assets/icons/folder-fill.svg" alt="Directory">bg</a></td><td data-sort="40383450">2021-03-31 09:37</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*flag"><a href="flag/index.htm"><img class="icon" src="../../../../../_autoindex/assets/icons/folder-fill.svg" alt="Directory">flag</a></td><td data-sort="40383450">2021-03-31 09:37</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="*other"><a href="other/index.htm"><img class="icon" src="../../../../../_autoindex/assets/icons/folder-fill.svg" alt="Directory">other</a></td><td data-sort="40383450">2021-03-31 09:37</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="favicon.png"><a href="favicon.png"><img class="icon" src="../../../../../_autoindex/assets/icons/image.svg" alt="[IMG]">favicon.png</a></td><td data-sort="1519726658">2018-02-27 10:17</td><td data-sort="1023">      1k</td></tr>
+<tr><td data-sort="ajaxloader.gif"><a href="AjaxLoader.gif"><img class="icon" src="../../../../../_autoindex/assets/icons/image.svg" alt="[IMG]">AjaxLoader.gif</a></td><td data-sort="1519726658">2018-02-27 10:17</td><td data-sort="1517">      2k</td></tr>
+<tr><td data-sort="logo.png"><a href="logo.png"><img class="icon" src="../../../../../_autoindex/assets/icons/image.svg" alt="[IMG]">logo.png</a></td><td data-sort="1573292772">2019-11-09 09:46</td><td data-sort="1869">      2k</td></tr>
+<tr><td data-sort="logo-dark.png"><a href="logo-dark.png"><img class="icon" src="../../../../../_autoindex/assets/icons/image.svg" alt="[IMG]">logo-dark.png</a></td><td data-sort="1609790758">2021-01-04 20:05</td><td data-sort="1708">      2k</td></tr>
+</table></div>
+<address>Proudly Served by LiteSpeed Web Server at www.rayanik.com Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script></body></html>
